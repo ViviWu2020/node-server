@@ -1,0 +1,9 @@
+{
+  "name": "node-serve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.7.15"
+  }
+}
